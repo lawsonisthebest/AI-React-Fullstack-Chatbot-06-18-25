@@ -2,6 +2,9 @@
 
 A modern AI chat application built with Next.js, Firebase, and Google's Gemini AI. Higgins AI provides a conversational interface powered by advanced language models with secure authentication and real-time chat capabilities.
 
+## Website
+https://react-fullstack-ai-chatbot-06-18-25.vercel.app/
+
 ## Features
 
 - 🤖 **AI-Powered Chat**: Powered by Google's Gemini AI for intelligent conversations
